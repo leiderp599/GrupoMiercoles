@@ -1,0 +1,902 @@
+[
+    {
+        "idOrden":"5",
+        "idUsuario":"jose",
+        "fecha":"2026-03-26",
+        "estado":"Pendiente",
+        "preciototal":18.98,
+        "observaciones":"Requiere firma",
+        "idRuta":"Ruta B"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-22",
+        "estado":"Cancelada",
+        "preciototal":20.947,
+        "observaciones":"Llamar al llegar",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-05",
+        "estado":"En Proceso",
+        "preciototal":34.534,
+        "observaciones":"Requiere firma",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-27",
+        "estado":"Pendiente",
+        "preciototal":41.799,
+        "observaciones":"Entrega r\u00e1pida",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-06",
+        "estado":"Cancelada",
+        "preciototal":17.164,
+        "observaciones":"Requiere firma",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-13",
+        "estado":"En Proceso",
+        "preciototal":18.294,
+        "observaciones":"Entrega r\u00e1pida",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-12",
+        "estado":"En Proceso",
+        "preciototal":21.857,
+        "observaciones":"Entrega r\u00e1pida",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-30",
+        "estado":"Cancelada",
+        "preciototal":26.739,
+        "observaciones":"Llamar al llegar",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-10",
+        "estado":"Cancelada",
+        "preciototal":21.876,
+        "observaciones":"Requiere firma",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-16",
+        "estado":"Pendiente",
+        "preciototal":38.832,
+        "observaciones":"Dejar en la puerta",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-24",
+        "estado":"Cancelada",
+        "preciototal":44.7,
+        "observaciones":"Dejar en la puerta",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-14",
+        "estado":"Pendiente",
+        "preciototal":34.739,
+        "observaciones":"Dejar en la puerta",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-17",
+        "estado":"Pendiente",
+        "preciototal":47.788,
+        "observaciones":"Llamar al llegar",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-10",
+        "estado":"En Proceso",
+        "preciototal":28.009,
+        "observaciones":"Llamar al llegar",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-11",
+        "estado":"Cancelada",
+        "preciototal":9.161,
+        "observaciones":"Dejar en la puerta",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-17",
+        "estado":"Cancelada",
+        "preciototal":25.223,
+        "observaciones":"Dejar en la puerta",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-04",
+        "estado":"En Proceso",
+        "preciototal":24.774,
+        "observaciones":"Entrega r\u00e1pida",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-06",
+        "estado":"Pendiente",
+        "preciototal":33.802,
+        "observaciones":"Dejar en la puerta",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-05",
+        "estado":"Cancelada",
+        "preciototal":45.043,
+        "observaciones":"Entrega r\u00e1pida",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-06",
+        "estado":"Pendiente",
+        "preciototal":24.815,
+        "observaciones":"Dejar en la puerta",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-30",
+        "estado":"Pendiente",
+        "preciototal":17.495,
+        "observaciones":"Llamar al llegar",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-15",
+        "estado":"Cancelada",
+        "preciototal":32.5,
+        "observaciones":"Llamar al llegar",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-05",
+        "estado":"Completada",
+        "preciototal":27.263,
+        "observaciones":"Llamar al llegar",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-09",
+        "estado":"En Proceso",
+        "preciototal":6.96,
+        "observaciones":"Llamar al llegar",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-10",
+        "estado":"Completada",
+        "preciototal":12.037,
+        "observaciones":"Requiere firma",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-22",
+        "estado":"Completada",
+        "preciototal":37.218,
+        "observaciones":"Entrega r\u00e1pida",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-01",
+        "estado":"Completada",
+        "preciototal":22.846,
+        "observaciones":"Dejar en la puerta",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-04",
+        "estado":"Pendiente",
+        "preciototal":6.176,
+        "observaciones":"Entrega r\u00e1pida",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-16",
+        "estado":"En Proceso",
+        "preciototal":31.438,
+        "observaciones":"Llamar al llegar",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-18",
+        "estado":"En Proceso",
+        "preciototal":22.579,
+        "observaciones":"Dejar en la puerta",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-21",
+        "estado":"Pendiente",
+        "preciototal":17.697,
+        "observaciones":"Dejar en la puerta",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-16",
+        "estado":"Cancelada",
+        "preciototal":38.271,
+        "observaciones":"Entrega r\u00e1pida",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-05",
+        "estado":"Completada",
+        "preciototal":27.872,
+        "observaciones":"Llamar al llegar",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-29",
+        "estado":"En Proceso",
+        "preciototal":37.801,
+        "observaciones":"Llamar al llegar",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-25",
+        "estado":"Pendiente",
+        "preciototal":28.214,
+        "observaciones":"Llamar al llegar",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-11",
+        "estado":"Completada",
+        "preciototal":33.343,
+        "observaciones":"Requiere firma",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-01",
+        "estado":"Pendiente",
+        "preciototal":37.014,
+        "observaciones":"Llamar al llegar",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-22",
+        "estado":"Cancelada",
+        "preciototal":24.322,
+        "observaciones":"Entrega r\u00e1pida",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-01",
+        "estado":"En Proceso",
+        "preciototal":8.268,
+        "observaciones":"Requiere firma",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-13",
+        "estado":"Completada",
+        "preciototal":18.645,
+        "observaciones":"Entrega r\u00e1pida",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-21",
+        "estado":"Cancelada",
+        "preciototal":34.397,
+        "observaciones":"Entrega r\u00e1pida",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-21",
+        "estado":"Cancelada",
+        "preciototal":11.855,
+        "observaciones":"Entrega r\u00e1pida",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-03",
+        "estado":"En Proceso",
+        "preciototal":48.386,
+        "observaciones":"Llamar al llegar",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-24",
+        "estado":"Completada",
+        "preciototal":6.11,
+        "observaciones":"Dejar en la puerta",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-10",
+        "estado":"Cancelada",
+        "preciototal":44.937,
+        "observaciones":"Entrega r\u00e1pida",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-11",
+        "estado":"Cancelada",
+        "preciototal":23.213,
+        "observaciones":"Entrega r\u00e1pida",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-14",
+        "estado":"Cancelada",
+        "preciototal":40.848,
+        "observaciones":"Llamar al llegar",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-04",
+        "estado":"Pendiente",
+        "preciototal":15.37,
+        "observaciones":"Requiere firma",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-31",
+        "estado":"Completada",
+        "preciototal":14.996,
+        "observaciones":"Entrega r\u00e1pida",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-24",
+        "estado":"Completada",
+        "preciototal":28.533,
+        "observaciones":"Requiere firma",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-20",
+        "estado":"Completada",
+        "preciototal":26.431,
+        "observaciones":"Entrega r\u00e1pida",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-17",
+        "estado":"Pendiente",
+        "preciototal":10.178,
+        "observaciones":"Requiere firma",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-30",
+        "estado":"Cancelada",
+        "preciototal":46.414,
+        "observaciones":"Requiere firma",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-13",
+        "estado":"Cancelada",
+        "preciototal":33.446,
+        "observaciones":"Requiere firma",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-25",
+        "estado":"Completada",
+        "preciototal":7.583,
+        "observaciones":"Requiere firma",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-24",
+        "estado":"Pendiente",
+        "preciototal":25.879,
+        "observaciones":"Dejar en la puerta",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-02",
+        "estado":"Completada",
+        "preciototal":22.58,
+        "observaciones":"Dejar en la puerta",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-27",
+        "estado":"En Proceso",
+        "preciototal":31.45,
+        "observaciones":"Requiere firma",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-12",
+        "estado":"Completada",
+        "preciototal":13.169,
+        "observaciones":"Entrega r\u00e1pida",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-04",
+        "estado":"Pendiente",
+        "preciototal":11.907,
+        "observaciones":"Entrega r\u00e1pida",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-19",
+        "estado":"Cancelada",
+        "preciototal":17.507,
+        "observaciones":"Dejar en la puerta",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-31",
+        "estado":"Pendiente",
+        "preciototal":9.559,
+        "observaciones":"Requiere firma",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-16",
+        "estado":"Pendiente",
+        "preciototal":32.584,
+        "observaciones":"Llamar al llegar",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-24",
+        "estado":"En Proceso",
+        "preciototal":40.884,
+        "observaciones":"Dejar en la puerta",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-08",
+        "estado":"Completada",
+        "preciototal":40.087,
+        "observaciones":"Entrega r\u00e1pida",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-22",
+        "estado":"Pendiente",
+        "preciototal":46.748,
+        "observaciones":"Entrega r\u00e1pida",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-26",
+        "estado":"Pendiente",
+        "preciototal":23.169,
+        "observaciones":"Requiere firma",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-07",
+        "estado":"En Proceso",
+        "preciototal":13.534,
+        "observaciones":"Entrega r\u00e1pida",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-17",
+        "estado":"En Proceso",
+        "preciototal":27.591,
+        "observaciones":"Requiere firma",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-10",
+        "estado":"Pendiente",
+        "preciototal":49.917,
+        "observaciones":"Llamar al llegar",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-28",
+        "estado":"Completada",
+        "preciototal":23.976,
+        "observaciones":"Llamar al llegar",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-31",
+        "estado":"Cancelada",
+        "preciototal":6.408,
+        "observaciones":"Dejar en la puerta",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-14",
+        "estado":"En Proceso",
+        "preciototal":7.406,
+        "observaciones":"Entrega r\u00e1pida",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-26",
+        "estado":"Pendiente",
+        "preciototal":21.39,
+        "observaciones":"Llamar al llegar",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-04",
+        "estado":"Cancelada",
+        "preciototal":35.028,
+        "observaciones":"Requiere firma",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-06",
+        "estado":"Completada",
+        "preciototal":45.462,
+        "observaciones":"Llamar al llegar",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-12",
+        "estado":"Completada",
+        "preciototal":24.481,
+        "observaciones":"Llamar al llegar",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-27",
+        "estado":"En Proceso",
+        "preciototal":28.254,
+        "observaciones":"Entrega r\u00e1pida",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-16",
+        "estado":"Pendiente",
+        "preciototal":36.763,
+        "observaciones":"Dejar en la puerta",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-20",
+        "estado":"En Proceso",
+        "preciototal":19.396,
+        "observaciones":"Llamar al llegar",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-22",
+        "estado":"En Proceso",
+        "preciototal":20.322,
+        "observaciones":"Llamar al llegar",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-02",
+        "estado":"Cancelada",
+        "preciototal":34.82,
+        "observaciones":"Requiere firma",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-23",
+        "estado":"En Proceso",
+        "preciototal":37.832,
+        "observaciones":"Entrega r\u00e1pida",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-29",
+        "estado":"Pendiente",
+        "preciototal":35.846,
+        "observaciones":"Entrega r\u00e1pida",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-10",
+        "estado":"Pendiente",
+        "preciototal":44.708,
+        "observaciones":"Dejar en la puerta",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-22",
+        "estado":"Completada",
+        "preciototal":28.921,
+        "observaciones":"Dejar en la puerta",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-23",
+        "estado":"Cancelada",
+        "preciototal":12.876,
+        "observaciones":"Llamar al llegar",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-18",
+        "estado":"Cancelada",
+        "preciototal":34.079,
+        "observaciones":"Dejar en la puerta",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-11",
+        "estado":"Cancelada",
+        "preciototal":18.871,
+        "observaciones":"Requiere firma",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-31",
+        "estado":"Cancelada",
+        "preciototal":29.182,
+        "observaciones":"Requiere firma",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-18",
+        "estado":"Pendiente",
+        "preciototal":38.588,
+        "observaciones":"Requiere firma",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-01",
+        "estado":"Completada",
+        "preciototal":19.986,
+        "observaciones":"Entrega r\u00e1pida",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-28",
+        "estado":"Cancelada",
+        "preciototal":44.413,
+        "observaciones":"Entrega r\u00e1pida",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-08",
+        "estado":"En Proceso",
+        "preciototal":34.091,
+        "observaciones":"Requiere firma",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-03",
+        "estado":"Completada",
+        "preciototal":10.33,
+        "observaciones":"Dejar en la puerta",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-11",
+        "estado":"Cancelada",
+        "preciototal":26.847,
+        "observaciones":"Requiere firma",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-07",
+        "estado":"Pendiente",
+        "preciototal":45.853,
+        "observaciones":"Dejar en la puerta",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-04-05",
+        "estado":"Pendiente",
+        "preciototal":41.72,
+        "observaciones":"Requiere firma",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-23",
+        "estado":"En Proceso",
+        "preciototal":23.175,
+        "observaciones":"Dejar en la puerta",
+        "idRuta":"a"
+    },
+    {
+        "idOrden":"5",
+        "idUsuario":"o",
+        "fecha":"2026-03-19",
+        "estado":"Completada",
+        "preciototal":22.767,
+        "observaciones":"Requiere firma",
+        "idRuta":"a"
+    }
+]
