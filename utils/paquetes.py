@@ -1,50 +1,53 @@
 import random
 from datetime import datetime, timedelta
 
-class Orden:
-    def __init__(self, idOrden, idUsuario, fecha, estado, preciototal, observaciones, idRuta):
-        self.idOrden = idOrden
-        self.idUsuario = idUsuario
-        self.fecha = fecha
+class Paquete:
+    def __init__(self, idPaquete, remitente, destinatario, fechaEnvio, estado, peso, observaciones, ruta):
+        self.idPaquete = idPaquete
+        self.remitente = remitente
+        self.destinatario = destinatario
+        self.fechaEnvio = fechaEnvio
         self.estado = estado
-        self.preciototal = preciototal
+        self.peso = peso
         self.observaciones = observaciones
-        self.idRuta = idRuta
+        self.ruta = ruta
 
     def to_dict(self):
         return {
-            "idOrden": self.idOrden,
-            "idUsuario": self.idUsuario,
-            "fecha": self.fecha,
+            "idPaquete": self.idPaquete,
+            "remitente": self.remitente,
+            "destinatario": self.destinatario,
+            "fechaEnvio": self.fechaEnvio,
             "estado": self.estado,
-            "preciototal": self.preciototal,
+            "peso": self.peso,
             "observaciones": self.observaciones,
-            "idRuta": self.idRuta
+            "ruta": self.ruta
         }
 
 
-class GeneradorOrdenes:
+class GeneradorPaquetes:
 
     def __init__(self):
-        self.usuarios = ['Carlos', 'Maria', 'Juan', 'Ana', 'Pedro', 'Luisa', 'Jose', 'Sofia', 'Diego', 'Laura']
-        self.estados = ['Pendiente', 'En Proceso', 'Completada', 'Cancelada']
-        self.observaciones = ['Entrega rápida', 'Requiere firma', 'Dejar en la puerta', 'Llamar al llegar']
+        self.personas = ['Carlos', 'Maria', 'Juan', 'Ana', 'Pedro', 'Luisa', 'Jose', 'Sofia', 'Diego', 'Laura']
+        self.estados = ['En bodega', 'En tránsito', 'Entregado', 'Retrasado']
+        self.observaciones = ['Frágil', 'Mantener seco', 'Entrega urgente', 'Requiere firma']
         self.rutas = ['Ruta A', 'Ruta B', 'Ruta C', 'Ruta D']
 
-    def generar_orden(self, idOrden):
-        return Orden(
-            idOrden=idOrden,
-            idUsuario=random.choice(self.usuarios),
-            fecha=(datetime.now() - timedelta(days=random.randint(0, 30))).strftime('%Y-%m-%d'),
+    def generar_paquete(self, idPaquete):
+        return Paquete(
+            idPaquete=idPaquete,
+            remitente=random.choice(self.personas),
+            destinatario=random.choice(self.personas),
+            fechaEnvio=(datetime.now() - timedelta(days=random.randint(0, 30))).strftime('%Y-%m-%d'),
             estado=random.choice(self.estados),
-            preciototal=round(random.uniform(6000, 50000), 2),
+            peso=round(random.uniform(0.5, 20), 2),  # en kg
             observaciones=random.choice(self.observaciones),
-            idRuta=random.choice(self.rutas)
+            ruta=random.choice(self.rutas)
         )
 
-    def generar_ordenes(self, n):
+    def generar_paquetes(self, n):
         lista = []
         for i in range(1, n + 1):
-            orden = self.generar_orden(i)  # ID único automático
-            lista.append(orden.to_dict())
+            paquete = self.generar_paquete(i)
+            lista.append(paquete.to_dict())
         return lista
