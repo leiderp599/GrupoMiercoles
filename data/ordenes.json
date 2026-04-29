@@ -1,92 +1,92 @@
 [
     {
-        "idOrden":"Carlos",
-        "idUsuario":"Sofia",
-        "fecha":"2026-04-23",
-        "estado":"Luisa",
-        "preciototal":32.832,
+        "idOrden":"Laura",
+        "idUsuario":"Maria",
+        "fecha":"2026-04-12",
+        "estado":"Sofia",
+        "preciototal":16.291,
         "observaciones":"Pedro",
-        "idRuta":"Diego"
-    },
-    {
-        "idOrden":"Juan",
-        "idUsuario":"Luisa",
-        "fecha":"2026-04-21",
-        "estado":"Ana",
-        "preciototal":24.229,
-        "observaciones":"Juan",
-        "idRuta":"Jose"
-    },
-    {
-        "idOrden":"Juan",
-        "idUsuario":"Diego",
-        "fecha":"2026-04-23",
-        "estado":"Laura",
-        "preciototal":33.163,
-        "observaciones":"Luisa",
         "idRuta":"Luisa"
     },
     {
-        "idOrden":"Carlos",
-        "idUsuario":"Luisa",
-        "fecha":"2026-04-25",
-        "estado":"Maria",
-        "preciototal":27.057,
-        "observaciones":"Juan",
-        "idRuta":"Sofia"
+        "idOrden":"Juan",
+        "idUsuario":"Laura",
+        "fecha":"2026-03-30",
+        "estado":"Laura",
+        "preciototal":27.489,
+        "observaciones":"Laura",
+        "idRuta":"Diego"
     },
     {
-        "idOrden":"Juan",
-        "idUsuario":"Diego",
-        "fecha":"2026-04-18",
+        "idOrden":"Carlos",
+        "idUsuario":"Sofia",
+        "fecha":"2026-04-04",
         "estado":"Sofia",
-        "preciototal":43.658,
-        "observaciones":"Luisa",
-        "idRuta":"Juan"
+        "preciototal":47.937,
+        "observaciones":"Ana",
+        "idRuta":"Laura"
     },
     {
         "idOrden":"Sofia",
         "idUsuario":"Diego",
-        "fecha":"2026-04-16",
-        "estado":"Luisa",
-        "preciototal":8.592,
-        "observaciones":"Luisa",
-        "idRuta":"Maria"
+        "fecha":"2026-04-06",
+        "estado":"Carlos",
+        "preciototal":21.506,
+        "observaciones":"Carlos",
+        "idRuta":"Laura"
     },
     {
         "idOrden":"Carlos",
-        "idUsuario":"Carlos",
-        "fecha":"2026-04-12",
-        "estado":"Laura",
-        "preciototal":13.621,
-        "observaciones":"Sofia",
+        "idUsuario":"Ana",
+        "fecha":"2026-04-09",
+        "estado":"Diego",
+        "preciototal":44.356,
+        "observaciones":"Carlos",
+        "idRuta":"Sofia"
+    },
+    {
+        "idOrden":"Ana",
+        "idUsuario":"Maria",
+        "fecha":"2026-04-28",
+        "estado":"Sofia",
+        "preciototal":10.895,
+        "observaciones":"Juan",
         "idRuta":"Jose"
     },
     {
-        "idOrden":"Diego",
-        "idUsuario":"Ana",
-        "fecha":"2026-04-15",
-        "estado":"Jose",
-        "preciototal":34.333,
-        "observaciones":"Diego",
-        "idRuta":"Juan"
-    },
-    {
-        "idOrden":"Carlos",
+        "idOrden":"Laura",
         "idUsuario":"Carlos",
-        "fecha":"2026-04-16",
-        "estado":"Luisa",
-        "preciototal":48.394,
-        "observaciones":"Luisa",
+        "fecha":"2026-04-23",
+        "estado":"Maria",
+        "preciototal":10.843,
+        "observaciones":"Pedro",
         "idRuta":"Ana"
     },
     {
-        "idOrden":"Juan",
-        "idUsuario":"Carlos",
-        "fecha":"2026-04-11",
+        "idOrden":"Carlos",
+        "idUsuario":"Diego",
+        "fecha":"2026-04-18",
         "estado":"Maria",
-        "preciototal":43.301,
+        "preciototal":12.89,
+        "observaciones":"Maria",
+        "idRuta":"Jose"
+    },
+    {
+        "idOrden":"Juan",
+        "idUsuario":"Luisa",
+        "fecha":"2026-04-13",
+        "estado":"Juan",
+        "preciototal":31.375,
         "observaciones":"Diego",
-        "idRuta":"Luisa"
+        "idRuta":"Sofia"
+    },
+    {
+        "idOrden":"Sofia",
+        "idUsuario":"Juan",
+        "fecha":"2026-04-29",
+        "estado":"Sofia",
+        "preciototal":48.923,
+        "observaciones":"Laura",
+        "idRuta":"Carlos"
     }
 ]
