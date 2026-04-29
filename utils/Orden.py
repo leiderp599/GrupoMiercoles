@@ -10,6 +10,11 @@
 
 import random
 from datetime import datetime, timedelta
+
+def generar_nombre():
+    nombres = ['Carlos', 'Maria', 'Juan', 'Ana', 'Pedro', 'Luisa', 'Jose', 'Sofia', 'Diego', 'Laura']
+    return random.choice(nombres)
+
 def generar_ordenes(n):
 
     #Defino atributos base
@@ -21,22 +26,22 @@ def generar_ordenes(n):
     idRuta = ['Ruta A', 'Ruta B', 'Ruta C', 'Ruta D']
 
     for i in range(1, n + 1):
-        idOrden = random.choice(idOrden)
-        idUsuario = random.choice(idUsuario)
+        orden_id = random.choice(idOrden)
+        usuario_id = random.choice(idUsuario)
         fecha = datetime.now() - timedelta(days=random.randint(0, 30))
         estado = random.choice(estados)
         preciototal = round(random.uniform(6.000, 50.000), 3)
         observacion = random.choice(observaciones)
-        idRuta = random.choice(idRuta)
+        ruta_id = random.choice(idRuta)
 
         orden = {
-            'idOrden': idOrden,
-            'idUsuario': idUsuario,
+            'idOrden': generar_nombre(),
+            'idUsuario': generar_nombre(),
             'fecha': fecha.strftime('%Y-%m-%d'),
-            'estado': estado,
+            'estado': generar_nombre(),
             'preciototal': preciototal,
-            'observaciones': observacion,
-            'idRuta': idRuta
+            'observaciones': generar_nombre(),
+            'idRuta': generar_nombre()
         }
         generar_ordenes.append(orden)
     return generar_ordenes

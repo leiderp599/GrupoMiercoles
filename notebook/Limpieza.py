@@ -13,13 +13,13 @@ def limpiar_datos(data_frame_sucio):
     # 2. Limpiando los textos para controlar valores inesperados
     valores_esperados_estado = ["pendiente", "en proceso", "completada", "cancelada"]
     data_frame_limpio["estado"] = data_frame_limpio["estado"].where(
-        data_frame_limpio["estado"].isin(valores_esperados_estado),
-        pd.NA
+    data_frame_limpio["estado"].isin(valores_esperados_estado),
+    pd.NA
     )
     valores_esperados_idRuta = ["ruta a", "ruta b", "ruta c", "ruta d"]
     data_frame_limpio["idRuta"] = data_frame_limpio["idRuta"].where(
-        data_frame_limpio["idRuta"].isin(valores_esperados_idRuta),
-        pd.NA
+    data_frame_limpio["idRuta"].isin(valores_esperados_idRuta),
+    pd.NA
     )
 
     # Limpieza de datos numéricos

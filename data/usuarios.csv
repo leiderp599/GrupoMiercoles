@@ -1,0 +1,11 @@
+idUsuario,nombre,correo,contraseña,rol,estado,fechaRegistro
+,juan,juan25@hotmail.com,pass3477,empleado,inactivo,2026-01-21
+31.0,maria,ana73@hotmail.com,pass4224,cliente,activo,2026-02-20
+144.0,ana,juan58@yahoo.com,pass5108, EMPLEADO,activo,2026-02-10
+,maria,carlos44@hotmail.com,pass5473,admin,activo,2026-02-26
+63.0,carlos,carlos42@hotmail.com,pass8296, CLIENTE,activo,2026-02-15
+47.0,carlos,carlos17@yahoo.com,pass5274, EMPLEADO,activo,2026-01-09
+0.0,ana,juan54@gmail.com,pass4376, CLIENTE,activo,2026-01-02
+123.0,12345,ana76@yahoo.com,pass5199,cliente,inactivo,2026-02-28
+,maria,juan92@hotmail.com,pass7958,empleado,inactivo,2026-01-20
+96.0,???,ana26@yahoo.com,pass2125,admin,activo,2026-01-21

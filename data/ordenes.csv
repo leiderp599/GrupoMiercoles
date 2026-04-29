@@ -1,0 +1,11 @@
+idOrden,idUsuario,fecha,estado,preciototal,observaciones,idRuta
+Carlos,Sofia,2026-04-23,Luisa,32.832,Pedro,Diego
+Juan,Luisa,2026-04-21,Ana,24.229,Juan,Jose
+Juan,Diego,2026-04-23,Laura,33.163,Luisa,Luisa
+Carlos,Luisa,2026-04-25,Maria,27.057,Juan,Sofia
+Juan,Diego,2026-04-18,Sofia,43.658,Luisa,Juan
+Sofia,Diego,2026-04-16,Luisa,8.592,Luisa,Maria
+Carlos,Carlos,2026-04-12,Laura,13.621,Sofia,Jose
+Diego,Ana,2026-04-15,Jose,34.333,Diego,Juan
+Carlos,Carlos,2026-04-16,Luisa,48.394,Luisa,Ana
+Juan,Carlos,2026-04-11,Maria,43.301,Diego,Luisa
